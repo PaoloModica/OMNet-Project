@@ -1,0 +1,3 @@
+package subghz;
+
+@license(LGPL);
